@@ -30,8 +30,8 @@ Read up on the usefulness of vivid imagery for memorization in EFL classrooms he
 - [Use of Computer-based Lexical Glosses to Improve Incidental Vocabulary Acquisition](https://books.google.pl/books?id=B7mVpITNvF0C&pg=PA50&lpg=PA50&dq=vocabulary+memory+cognitive+load+images&source=bl&ots=Uva7D_e9qI&sig=J3AAWoK4IMJoXjwzVaaJoxNQDyw&hl=en&sa=X&ved=0ahUKEwiC2q3CgazNAhVKApoKHTvTBdIQ6AEIKzAC#v=onepage&q=vocabulary%20memory%20cognitive%20load%20images&f=false)
 
 ### technical implementation
-- uses potrace.js to transform images into vector drawings
-- uses the flickr API to get images
+- uses [potrace.js](https://github.com/monolithpl/potrace.js) to transform images into vector drawings
+- uses the [flickr API](https://www.flickr.com/services/api/) to get images
 
 
 MIT License
