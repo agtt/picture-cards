@@ -32,6 +32,8 @@ Read up on the usefulness of vivid imagery for memorization in EFL classrooms he
 ### technical implementation
 - uses potrace.js to transform images into vector drawings
 - uses the flickr API to get images
+
+
 MIT License
 
 Copyright 2016 Wiktor Jakubczyc
